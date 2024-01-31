@@ -1,5 +1,5 @@
 # Introduction
-A (or at least intended to be) simple, easy-to-use web page for modifying the colours of an apk.
+A (or at least intended to be) simple, easy-to-use web page for modifying the colours of an apk. Theming made easy for the layman.
 
 Some screenshots:
 
