@@ -5,11 +5,11 @@ Some screenshots:
 
 ## Dark Mode
 
-<img align="center" src="https://github.com/ApkThemer/apkthemer.github.io/blob/main/screenshots/dark.jpg" />
+<img align="center" src="https://github.com/ApkThemer/apkthemer.github.io/blob/master/screenshots/dark.jpg" />
 
 ## Light Mode
 
-<img align="center" src="https://github.com/ApkThemer/apkthemer.github.io/blob/main/screenshots/light.jpg" />
+<img align="center" src="https://github.com/ApkThemer/apkthemer.github.io/blob/master/screenshots/light.jpg" />
 
 # What It Does
 
